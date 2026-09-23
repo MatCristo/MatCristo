@@ -20,10 +20,10 @@ Atualmente, estou direcionando meus estudos e projetos para DevOps, Cloud e auto
       <a href="https://www.instagram.com/matheuscrisfer/">
     <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-      <a href="https://github.com/SEU_USUARIO">
+      <a href="https://github.com/MatCristo">
     <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-      <a href="https://www.linkedin.com/in/matheus-cristo-fernandes-0320a917/">
+      <a href="https://www.linkedin.com/in/matheus-cristo-fernandes-0320a917b/">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
