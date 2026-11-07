@@ -5,7 +5,7 @@
 
 
 
-Me chamo Matheus Cristo Fernandes, sou de Serra/ES, Técnico em Hardware e formado em Análise e Desenvolvimento de Sistemas.
+Me chamo Matheus Cristo Fernandes, sou de Serra/ES, formado em Análise e Desenvolvimento de Sistemas.
 
 Sou apaixonado por tecnologia e por encontrar soluções técnicas para problemas reais. Tenho experiência com sistemas RIS e PACS, manipulação de arquivos DICOM, integração entre APIs e sistemas, automação de processos e manipulação de dados e metadados.
 
